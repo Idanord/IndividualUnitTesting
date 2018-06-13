@@ -1,0 +1,7 @@
+C:\Users\v-wif\source\repos\FractionMath\FractionMath\bin\Debug\FractionMath.exe.config
+C:\Users\v-wif\source\repos\FractionMath\FractionMath\bin\Debug\FractionMath.exe
+C:\Users\v-wif\source\repos\FractionMath\FractionMath\bin\Debug\FractionMath.pdb
+C:\Users\v-wif\source\repos\FractionMath\FractionMath\obj\Debug\FractionMath.csprojAssemblyReference.cache
+C:\Users\v-wif\source\repos\FractionMath\FractionMath\obj\Debug\FractionMath.csproj.CoreCompileInputs.cache
+C:\Users\v-wif\source\repos\FractionMath\FractionMath\obj\Debug\FractionMath.exe
+C:\Users\v-wif\source\repos\FractionMath\FractionMath\obj\Debug\FractionMath.pdb

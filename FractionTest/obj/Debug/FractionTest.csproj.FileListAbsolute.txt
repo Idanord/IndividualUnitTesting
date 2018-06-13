@@ -1,0 +1,17 @@
+C:\Users\v-wif\source\repos\FractionMath\FractionTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\v-wif\source\repos\FractionMath\FractionTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\v-wif\source\repos\FractionMath\FractionTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\v-wif\source\repos\FractionMath\FractionTest\bin\Debug\FractionTest.dll
+C:\Users\v-wif\source\repos\FractionMath\FractionTest\bin\Debug\FractionTest.pdb
+C:\Users\v-wif\source\repos\FractionMath\FractionTest\bin\Debug\FractionMath.exe
+C:\Users\v-wif\source\repos\FractionMath\FractionTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\v-wif\source\repos\FractionMath\FractionTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\v-wif\source\repos\FractionMath\FractionTest\bin\Debug\FractionMath.pdb
+C:\Users\v-wif\source\repos\FractionMath\FractionTest\bin\Debug\FractionMath.exe.config
+C:\Users\v-wif\source\repos\FractionMath\FractionTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\v-wif\source\repos\FractionMath\FractionTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\v-wif\source\repos\FractionMath\FractionTest\obj\Debug\FractionTest.csprojAssemblyReference.cache
+C:\Users\v-wif\source\repos\FractionMath\FractionTest\obj\Debug\FractionTest.csproj.CoreCompileInputs.cache
+C:\Users\v-wif\source\repos\FractionMath\FractionTest\obj\Debug\FractionTest.csproj.CopyComplete
+C:\Users\v-wif\source\repos\FractionMath\FractionTest\obj\Debug\FractionTest.dll
+C:\Users\v-wif\source\repos\FractionMath\FractionTest\obj\Debug\FractionTest.pdb
